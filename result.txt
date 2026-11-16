@@ -1,0 +1,9 @@
+pc=6: команда 1, operand=1, acc=5
+pc=8: команда 2, operand=2, acc=8
+pc=10: команда 3, operand=3, acc=0
+pc=12: команда 5, operand=18, acc=0
+pc=18: команда 1, operand=2, acc=3
+pc=20: команда 5, operand=26, acc=3
+pc=22: команда 4, operand=28, acc=3
+pc=28: команда 0, operand=нет, acc=3
+Программа завершена.
